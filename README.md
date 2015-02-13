@@ -1,2 +1,3 @@
 # JenkinsCICDBackup
-This Project Contains PHING CI Implementation with Jenkins.
+This Project Contains Jenkins CI and CD Backup of Jenkins
+
